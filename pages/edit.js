@@ -61,11 +61,6 @@ const Edit = () => {
 
   // Services Handler
 
-  const editServices = (serviceIndex, editService) => {
-    let copyServices = data.services;
-    copyServices[serviceIndex] = { ...editService };
-    setData({ ...data, services: copyServices });
-  };
 
   const addService = () => {
     setData({

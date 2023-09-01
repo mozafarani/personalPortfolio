@@ -1,1 +1,107 @@
-{"name":"Mohammed Alzafarani","headerTaglineOne":"Hello 👋","headerTaglineTwo":"Mohammed Alzafarani,","headerTaglineThree":" I'm a full stack developer","headerTaglineFour":" based in Edmonton, AB.","showCursor":false,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/mozafarani"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/mohammed-alzafarani-710a64202/"},{"id":"5","title":"Email","link":"mailto:mohammefm@gmail.com"}],"projects":[{"id":"1","title":"Momentum","description":"Momentum is a habit tracker application that lets a user add habits, denote habit events when a habit is done as planned, and lets the user share to others their current habit progress.","imageSrc":"https://user-images.githubusercontent.com/40973251/143953450-1017cf1f-6207-4430-8f87-dc6f67b1a8c9.png","url":"https://github.com/CMPUT301F21T37/Momentum"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"A University of Alberta graduate in a Computer Science and Mathematics major with 4 years of experience in web and mobile development. Strong skills in front-end and back-end development, proficient in Javascript, HTML, CSS, C, strong understanding of algorithms, data structures, and web/mobile development principles, and passion for staying current with industry trends.","resume":{"tagline":"👋  I'm a software engineer, Frontend Developer.","description":" University of Alberta graduate in a Computer Science and Mathematics major with 4 years of experience in web and mobile development. Strong skills in front-end and back-end development, proficient in Javascript, HTML, CSS, C, strong understanding of algorithms, data structures, and web/mobile development principles, and passion for staying current with industry trends.","experiences":[{"id":"1","dates":"September 2022 - December 2022","type":"Full Time","position":"Frontend Developer at University of Alberta","bullets":"Collaborated with a team to develop and launch an open-source project for student use and contribution, Led the requirement gathering/analysis/design/estimation/testing of the frontend using Selenium resulting in the successful development and implementation of a user-friendly and visually appealing interface, Optimized the resume parsing algorithm to efficiently read JSON files reducing data processing time by 50%, Published a student resume Python package on GitHub which provided students with an efficient way to generate professional resumes"}],"education":{"universityName":"University of Alberta","universityDate":"2021-2023","universityPara":"B.S. Computing Science and Mathematics"},"languages":["Javascript","Java","Python","C++","HTML5","CSS","C","Sqlite"],"frameworks":["React","Typescript","NodeJs","Django","FastAPI","Flask"],"others":["Github","Vscode","Docker","Postman","Figma","Firebase","Ngnix","Gunicorn","Cybera"]}}
+{
+    "name": "Mohammed Alzafarani",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "I'm Mohammed Alzafarani,",
+    "headerTaglineThree": "a full stack developer",
+    "headerTaglineFour": " based in Edmonton, AB.",
+    "showCursor": false,
+    "showBlog": true,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+        {
+            "id": "1",
+            "title": "Github",
+            "link": "https://github.com/mozafarani"
+        },
+        {
+            "id": "2",
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/mohammed-alzafarani-710a64202/"
+        },
+        {
+            "id": "5",
+            "title": "Email",
+            "link": "mailto:mohammefm@gmail.com"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Momentum",
+            "description": "Momentum is a habit tracker application that lets a user add habits, denote habit events when a habit is done as planned, and lets the user share to others their current habit progress.",
+            "imageSrc": "https://cdn.dribbble.com/users/4870223/screenshots/16107147/media/5807c83b742d10e5ee9b17f10843970a.png?resize=400x0",
+            "url": "https://github.com/CMPUT301F21T37/Momentum"
+        },
+        {
+            "id": "2",
+            "title": "Syllamate (University of Alberta’s Back to School Hackathon: 1st Place.)",
+            "description": "Created a website utilizing ReactJS to convert syllabus due dates into a calendar file for users.",
+            "imageSrc": "https://github.com/mozafarani/personalPortfolio/blob/main/Syllamate.png?raw=true",
+            "url": "https://github.com/prestonling/due-date-finder/tree/main/due-date-finder"
+        },
+        {
+            "id": "3",
+            "title": "Tram Booking System",
+            "description": "Designed a modern tram scheduler/booking system to simulate a ticket vending machine in Alexandria, Egypt.",
+            "imageSrc": "https://user-images.githubusercontent.com/47674413/118670524-5ffea700-b7ff-11eb-81f9-0bad449b8081.png",
+            "url": "https://github.com/mozafarani/Alex-Tram-Tracker"
+        },
+        {
+            "id": "4",
+            "title": "Movie API",
+            "description": "Developed a comprehensive Movie API utilizing Django framework and PostgreSQL database.",
+            "imageSrc": "https://static.esrgear.com/blog/wp-content/uploads/2020/07/DOWNLOAD-MOVIES-ON-IPHONE.jpg",
+            "url": "https://github.com/cmput401-f22/cmput-401-assignment-thestungyer"
+        }
+    ],
+    "services":[],
+    "aboutpara": "A University of Alberta graduate in a Computer Science and Mathematics major with 4 years of experience in web and mobile development. Strong skills in front-end and back-end development, proficient in Javascript, HTML, CSS, C, strong understanding of algorithms, data structures, and web/mobile development principles, and passion for staying current with industry trends.",
+    "resume": {
+        "tagline": "👋  I'm a software engineer, Frontend Developer.",
+        "description": " University of Alberta graduate in a Computer Science and Mathematics major with 4 years of experience in web and mobile development. Strong skills in front-end and back-end development, proficient in Javascript, HTML, CSS, C, strong understanding of algorithms, data structures, and web/mobile development principles, and passion for staying current with industry trends.",
+        "experiences": [
+            {
+                "id": "1",
+                "dates": "September 2022 - December 2022",
+                "type": "Full Time",
+                "position": "Frontend Developer at University of Alberta",
+                "bullets": "Collaborated with a team to develop and launch an open-source project for student use and contribution, Led the requirement gathering/analysis/design/estimation/testing of the frontend using Selenium resulting in the successful development and implementation of a user-friendly and visually appealing interface, Optimized the resume parsing algorithm to efficiently read JSON files reducing data processing time by 50%, Published a student resume Python package on GitHub which provided students with an efficient way to generate professional resumes"
+            }
+        ],
+        "education": {
+            "universityName": "University of Alberta",
+            "universityDate": "2021-2023",
+            "universityPara": "B.S. Computing Science and Mathematics"
+        },
+        "languages": [
+            "Javascript",
+            "Java",
+            "Python",
+            "C++",
+            "HTML5",
+            "CSS",
+            "C",
+            "Sqlite"
+        ],
+        "frameworks": [
+            "React",
+            "Typescript",
+            "NodeJs",
+            "Django",
+            "FastAPI",
+            "Flask"
+        ],
+        "others": [
+            "Github",
+            "Vscode",
+            "Docker",
+            "Postman",
+            "Figma",
+            "Firebase",
+            "Ngnix",
+            "Gunicorn",
+            "Cybera"
+        ]
+    }
+}
